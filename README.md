@@ -1,5 +1,7 @@
 # Market Pulse Wingman
 
+View on Clawhub: https://clawhub.ai/yaelsprikut/market-pulse-wingman
+
 Market risk co-pilot for equities — fast, disciplined scans of a watchlist that blend technical context, headline/risk sweeps, and a concise trading log entry.
 
 ## What this Skill does
